@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "669fe8d58f1cb74ab65d0601"
+  },
+  "name": "Centigradz",
+  "desc": "Songs by Centigradz",
+  "bgColor": "#005bd1",
+  "image": "https://res.cloudinary.com/df97dgaug/image/upload/v1721755862/zcec64jbdnmmflecjuwm.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669fe8f98f1cb74ab65d0608"
+  },
+  "name": "DILU Beats",
+  "desc": "Songs by DILU Beats",
+  "bgColor": "#ff7b00",
+  "image": "https://res.cloudinary.com/df97dgaug/image/upload/v1721755897/mvhd4xb3suqey2dudksp.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669fe9208f1cb74ab65d060e"
+  },
+  "name": "Danith Sri",
+  "desc": "Songs by Danith Sri",
+  "bgColor": "#00ccff",
+  "image": "https://res.cloudinary.com/df97dgaug/image/upload/v1721755936/wynttgbvkylcz5fobinn.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669fe9cd8f1cb74ab65d0614"
+  },
+  "name": "Kanchana Anuradhi",
+  "desc": "Songs by Kanchana Anuradhi",
+  "bgColor": "#8c03fc",
+  "image": "https://res.cloudinary.com/df97dgaug/image/upload/v1721756109/n3sybdgpukswjagggilx.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669fe9f88f1cb74ab65d0616"
+  },
+  "name": "Suneera Sumanga",
+  "desc": "Songs by Suneera Sumanga",
+  "bgColor": "#ff4d00",
+  "image": "https://res.cloudinary.com/df97dgaug/image/upload/v1721756153/ax7qkmrl00fttojpb15t.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669fea1e8f1cb74ab65d0618"
+  },
+  "name": "Umariya",
+  "desc": "Songs by Umariya",
+  "bgColor": "#a6ff00",
+  "image": "https://res.cloudinary.com/df97dgaug/image/upload/v1721756190/vc2lt6mgrh8hjooqxsx1.png",
+  "__v": 0
+}]
